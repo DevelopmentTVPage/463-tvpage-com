@@ -16,6 +16,8 @@
     "id": "65728738",
     "loginId": "1758386",
     "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "65729455",
     "titleTextEncoded": "Captain-America-The-Avengers-Classic-Muscle-Child-Halloween-Costume-Walmart",
     "category": "",
     "duration": 26,
@@ -35,7 +37,14 @@
         "quality": ""
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null
