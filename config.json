@@ -1,0 +1,15 @@
+{
+    "title": "PTest",
+    "baseURL": "https:\/\/tvpage.com\/ptest",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758386",
+        "subfolder": "\/ptest",
+        "firstpartycookies": true,
+        "cookiedomain": "tvpage.com"
+    }
+}
